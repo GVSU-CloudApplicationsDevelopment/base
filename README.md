@@ -13,8 +13,6 @@ Project description (~1 paragraph)
 ## Run Instructions
 
 1. This is a test of Markdown
-
 2. Isn't it neat.
-
-  1. Super neat
-  2. Really super neat.
+    1. Super neat
+    2. Really super neat.
