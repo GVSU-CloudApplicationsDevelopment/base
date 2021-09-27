@@ -14,5 +14,5 @@ Project description (~1 paragraph)
 
 1. This is a test of Markdown
 2. Isn't it neat.
-2.1 Super neat
-2.2 Really super neat.
+  2.1 Super neat
+  2.2 Really super neat.
